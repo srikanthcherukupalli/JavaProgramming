@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a594c134-92b9-496c-84bd-050f7e09ed45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a594c134-92b9-496c-84bd-050f7e09ed45" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +26,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "E:/JavaProgramming/JavaProgramming/Utility/src",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
@@ -51,13 +47,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableInt" />
-      <module name="JavaProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Utility.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/Utility/out/artifacts/Utility_jar/Utility.jar" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -66,13 +55,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.VariableInt" />
       <item itemvalue="JAR Application.Utility.jar" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.VariableInt" />
         <item itemvalue="JAR Application.Utility.jar" />
       </list>
     </recent_temporary>

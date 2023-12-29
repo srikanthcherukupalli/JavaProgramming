@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VariableInt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VariableInt_jar</output-path>
+    <root id="archive" name="VariableInt.jar">
+      <element id="module-output" name="VariableInt" />
+    </root>
+  </artifact>
+</component>
